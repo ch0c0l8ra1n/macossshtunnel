@@ -10,7 +10,7 @@ networksetup -setsocksfirewallproxystate Wi-Fi off;
 
 if [ $# -ne 1 ]
 then
-echo "Usage stunnel [on/off]";
+echo "Usage tunnel [on/off]";
 exit 1;
 fi
 
