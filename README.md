@@ -5,7 +5,7 @@ setup:
 ```
 git clone https://github.com/rjpj2016/macossshtunnel.git
 cd macossshtunnel
-ln -s tunnel.hs/usr/local/bin/tunnel
+ln -s tunnel.hs /usr/local/bin/tunnel
 tunnel
 >> Usage tunnel [on/off]
 ```
