@@ -7,7 +7,7 @@ git clone https://github.com/rjpj2016/macossshtunnel.git
 cd macossshtunnel
 ln -s tunnel.hs/usr/local/bin/tunnel
 tunnel
->> Usage stunnel [on/off]
+>> Usage tunnel [on/off]
 ```
 
 A simple program to well, start an ssh tunnel and enable socks proxy.
