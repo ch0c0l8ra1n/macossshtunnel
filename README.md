@@ -16,6 +16,10 @@ the proxy to be quite tedious. So I wrote this small script to automate
 the process.
 
 Instructions:
+
 Add your username@hostname pair to `ADDRESS`.
+
 The port of the ssh server to `PORT`.
+
 The port you want too bind to, to `BINDTOPORT`.
+
